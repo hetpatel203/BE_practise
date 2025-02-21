@@ -1,0 +1,3 @@
+for resseting commit who has't pushed yet
+
+ git reset HEAD -- node_modules
